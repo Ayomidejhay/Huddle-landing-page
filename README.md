@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ayomidejhay/Huddle-landing-page.git)
+- Solution URL: [Solution URL](https://github.com/Ayomidejhay/Huddle-landing-page.git)
 - Live Site URL: [Netlify live site](https://classy-semifreddo-098e22.netlify.app/)
 
 
